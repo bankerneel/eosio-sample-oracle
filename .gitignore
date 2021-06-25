@@ -1,0 +1,13 @@
+/oracle-app/config/default.json
+/oracle-app/node_modules
+/contracts/client/client.abi
+/contracts/client/client.wasm
+/contracts/intclient/client.abi
+/contracts/intclient/client.wasm
+/contracts/strclient/client.abi
+/contracts/strclient/client.wasm
+/contracts/strclient/intclient.abi
+/contracts/strclient/intclient.wasm
+/contracts/intclient/strclient.abi
+/contracts/intclient/strclient.wasm
+/oracle-app/package-lock.json
